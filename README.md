@@ -1,4 +1,4 @@
-# python_todo_list
+# ToDo list in Python
 
 The program uses sql database with the help of SQLAlchemy ORM.
 
